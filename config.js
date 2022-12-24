@@ -139,8 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'kren',
+					name: 'Kren',
 					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+				},
+				{
+					name: 'Underrated',
+					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+				},
+				{
+					name: 'Japanese',
+					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCt67v5-tO3_sA6sCaepg5I-',
+				},
+				{
+					name: 'Spotify-Web',
+					link: 'https://open.spotify.com/',
 				},
 			],
 		},
