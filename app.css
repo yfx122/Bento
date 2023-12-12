@@ -5,8 +5,9 @@
 */
 
 /* V A R I A B L E S */
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+/*Manrope, Rethink Sans*/
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
 
 :root {
   /* Font Size */
@@ -35,13 +36,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #161616; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #6e95bd; /* Hover color */
+  --background: #101010; /* Background color */
+  --cards: #151515; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #dfdddd; /* Foreground color */
+  --sfg: #151515; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -56,7 +57,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
@@ -110,7 +111,7 @@ body {
 .card {
   background-color: var(--cards);
   box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .card:hover {
@@ -316,7 +317,7 @@ body {
   color: var(--fg);
   margin-top: 1vh;
   padding: 8px 12px;
-  border-radius: 5px;
+  border-radius: 2px;
   font-weight: bold;
   text-align: center;
   width: 80%;

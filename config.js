@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'アニケット',
+	name: 'Rei',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'bd69cdd790565a78ca1cba9e91fc1dbf', // Write here your API Key
+	weatherKey: '288752458e9b0130f398aa44af330a02', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCt67v5-tO3_sA6sCaepg5I-',
 				},
 				{
-					name: 'Spotify-Web',
-					link: 'https://open.spotify.com/',
+					name: 'Lofi',
+					link: 'https://www.youtube.com/live/lHpYyYtkmrw?si=Cv6wNnDWWhJGlL65',
 				},
 			],
 		},
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 				{
 					name: 'Slack',
